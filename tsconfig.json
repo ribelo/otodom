@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "target": "es5",
+    "lib": ["es2017", "dom"],
+    "outDir": "./build",
+    "module": "commonjs",
+    "removeComments": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["src/pupisto/playground.ts"]
+}
